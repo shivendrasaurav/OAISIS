@@ -1,7 +1,9 @@
 # O.A.I.S.I.S.
-## Open Artificial Intelligence Seamless Integrable System
+## Open Artificial Intelligence Seamless Integrable System  <br/><br/>
+### AI Assistant Made Using Open GPT 3
 
-AI Assistant Made Using Open GPT 3
+### Progress
+- In waitlist of Open AI GPT3 beta program
 
 <br/><hr/>
 
